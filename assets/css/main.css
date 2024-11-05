@@ -2189,7 +2189,7 @@ input, select, textarea {
 
 		}
 		#nav .icon {
-			opacity: 0.7; /* Adjust this value to make the icons more visible */
+			opacity: 0.9; /* Adjust this value to make the icons more visible */
 		}
 #songs {
 	text-align: center;
