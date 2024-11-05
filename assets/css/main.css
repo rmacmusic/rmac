@@ -2194,3 +2194,7 @@ input, select, textarea {
 #songs {
 	text-align: center;
 }
+p {
+    color: #333333; /* Dark gray */
+}
+
