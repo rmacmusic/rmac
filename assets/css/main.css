@@ -2189,8 +2189,12 @@ input, select, textarea {
 
 		}
 		#nav .icon {
-			opacity: 0.6; /* Adjust this value to make the icons more visible */
+			opacity: 0.8; /* Adjust this value to make the icons more visible */
 		}
 #songs {
 	text-align: center;
 }
+p {
+    color: #333333 !important; /* Dark gray */
+}
+
