@@ -2198,3 +2198,6 @@ input, select, textarea {
 		    color: #333333 !important; /* Dark gray */
 		}
 
+		#books img {
+			padding-bottom: 3.3%;
+		}
